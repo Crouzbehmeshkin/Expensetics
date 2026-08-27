@@ -1,0 +1,2 @@
+"IBAN/BBAN","Ccy","BIC","Seq No","Date","Value Date","Amount","Bal After Bkng","Counterpty IBAN/BBAN","Name Counterpty","Name Ultimate Pty","Name Initiating Pty","Counterpty BIC","Code","Batch ID","Transaction Reference","Mandate Reference","Collector ID","Payment Reference","Description-1","Description-2","Description-3","Reasoncode","Instr Amt","Instr Ccy","Rate"
+"NL72RABO0104510633","EUR","RABONL2U","000000000000001001","2026-08-02","2026-08-02","-12,34","+987,66","NL44RABO0123456789","COFFEE SHOP","","","RABONL2UXXX","ba","","","","","","Card purchase","","","","","",""

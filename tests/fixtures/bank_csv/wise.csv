@@ -1,0 +1,3 @@
+TransferWise ID,Date,Amount,Currency,Description,Payment Reference,Running Balance,Exchange From,Exchange To,Exchange Rate,Payer Name,Payee Name,Payee Account Number,Merchant,Card Last Four Digits,Card Holder Full Name,Attachment,Note,Total fees
+wise-001,2026-08-02,-12.34,EUR,Card purchase,Coffee,987.66,,,,,,,COFFEE SHOP,1234,Test User,,,0.00
+wise-002,2026-08-03,20.00,EUR,Refund,Refund,1007.66,,,,REFUND,,,,,,,,0.00

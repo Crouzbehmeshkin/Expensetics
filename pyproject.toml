@@ -1,0 +1,26 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--strict-markers"
+markers = [
+    "e2e: browser-based end-to-end tests",
+]
+
+[tool.coverage.run]
+branch = true
+source = ["finance_app"]
+omit = [
+    "finance_app/*_ui.py",
+    "finance_app/components.py",
+    "finance_app/forms.py",
+    "finance_app/state.py",
+    "finance_app/ui.py",
+]
+
+[tool.coverage.report]
+fail_under = 80
+show_missing = true
+skip_covered = true
+exclude_also = [
+    "if TYPE_CHECKING:",
+    "if __name__ == .__main__.:",
+]

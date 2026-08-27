@@ -1,0 +1,3 @@
+"Tegenrekening IBAN","Munt","Creditcard Nummer","Productnaam","Creditcard Regel1","Creditcard Regel2","Transactiereferentie","Datum","Bedrag","Omschrijving","Oorspr bedrag","Oorspr munt","Koers"
+"NL72RABO0104510633","EUR","1234","RaboCard","T USER","","card-001","2026-08-02","-12,34","COFFEE SHOP","","",""
+"NL72RABO0104510633","EUR","1234","RaboCard","T USER","","card-002","2026-08-03","+20,00","REFUND","","",""

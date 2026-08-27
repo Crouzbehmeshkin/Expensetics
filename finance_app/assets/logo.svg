@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="7 6 58.5 52" role="img" aria-label="Expensetics logo">
+  <defs>
+    <style>
+      .brand-mark-e { fill: var(--brand-ink, #191e22); }
+      .brand-mark-bar { fill: var(--brand-sage, #84947d); }
+    </style>
+  </defs>
+  <!--
+    Geometry: baseline=58, bar-width=8, body-gap=2.
+    Each individual rising edge has a 1:1 slope. The middle and arrow
+    bars are intentionally taller rather than constrained to one line.
+    The arrow is symmetric around x=60.
+  -->
+  <path class="brand-mark-e"
+        d="M13 6H58L48 16H24V27H47L37 37H24V48H34L24 58H7V12Z"/>
+  <path class="brand-mark-bar"
+        d="M36 58V51L44 43V58Z"/>
+  <path class="brand-mark-bar"
+        d="M46 58V39L54 31V58Z"/>
+  <path class="brand-mark-bar"
+        d="M56 58V29.5H54.5L60 24L65.5 29.5H64V58Z"/>
+</svg>

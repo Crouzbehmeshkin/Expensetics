@@ -1,0 +1,3 @@
+Transaction Date,Clearing Date,Description,Merchant,Category,Type,Amount (USD),Purchased By
+08/02/2026,08/03/2026,COFFEE SHOP TORONTO,COFFEE SHOP,Food & Drink,Purchase,12.34,Sample User
+08/03/2026,08/04/2026,PAYMENT,PAYMENT,Payment,Payment,20.00,Sample User

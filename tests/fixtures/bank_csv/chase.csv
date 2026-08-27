@@ -1,0 +1,3 @@
+Details,Posting Date,Description,Amount,Type,Balance,Check or Slip #
+DEBIT,08/02/2026,COFFEE SHOP,-12.34,DEBIT_CARD,987.66,
+CREDIT,08/03/2026,PAYMENT,20.00,ACH_CREDIT,1007.66,

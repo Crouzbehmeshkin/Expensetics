@@ -1,0 +1,7 @@
+# Runtime plus local test and quality tooling.
+-r runtime.in
+pytest==9.0.3
+hypothesis==6.167.0
+pytest-cov==7.1.0
+playwright==1.62.0
+pip-audit==2.10.1

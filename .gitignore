@@ -1,0 +1,79 @@
+# Keep the repository limited to source, tests, intentional assets, and project docs.
+# New top-level files are ignored until they are deliberately added to this allowlist.
+/*
+!/.gitignore
+!/.gitattributes
+!/.editorconfig
+!/.github/
+!/docs/
+!/finance_app/
+!/scripts/
+!/tests/
+!/requirements/
+!/app.py
+!/pyproject.toml
+!/*.md
+/PROJECT_SPEC.md
+!/LICENSE
+!/Run Expensetics.cmd
+
+# Local environments and downloaded dependencies
+.venv/
+.build-venv/
+.audit-venv/
+.dependency-venv/
+.artifact-runtime/
+node_modules/
+
+# Python, test, coverage, and UI caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.nicegui/
+.chart-tests/
+.test-tmp/
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
+*.whl
+*.spec
+
+# Private application data and user-created exports
+data/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.expensetics
+*.xlsx
+*.xls
+
+# Logs, temporary files, and operating-system/editor state
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~$*
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Local secrets; a documented example file remains source-controlled.
+.env
+.env.*
+!.env.example

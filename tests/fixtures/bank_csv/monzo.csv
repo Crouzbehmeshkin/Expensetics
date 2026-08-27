@@ -1,0 +1,3 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split
+tx-001,02/08/2026,12:30:00,card,COFFEE SHOP,,eating_out,-12.34,GBP,-12.34,GBP,,,,COFFEE SHOP,
+tx-002,03/08/2026,09:15:00,bank transfer,REFUND,,income,20.00,GBP,20.00,GBP,,,,REFUND,

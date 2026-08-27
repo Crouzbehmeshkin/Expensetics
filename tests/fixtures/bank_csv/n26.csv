@@ -1,0 +1,3 @@
+Booking Date,Value Date,Partner Name,Partner Iban,Type,Payment Reference,Account Name,Amount (EUR),Original Amount,Original Currency,Exchange Rate
+02/08/2026,02/08/2026,COFFEE SHOP,DE02120300000000202051,MasterCard Payment,Coffee,Main,-12.34,,,
+03/08/2026,03/08/2026,REFUND,DE02120300000000202051,Transfer,Refund,Main,20.00,,,
